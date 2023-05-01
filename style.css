@@ -1,0 +1,17 @@
+/* this is not It,s css */
+html {
+  background:blue;
+  color:white;
+  font-family: sans-serif;
+}
+
+p{
+  background: black; 
+
+}
+ 
+img {
+  border-width: 10px;
+  border-color: purple;
+  border-style:solid;
+}
